@@ -5,5 +5,6 @@ public class Lab057_TypeCasting {
         byte b =10;
         int a = b; // Valid - > Implicit Casting- Automatically
         int a1 = (int)b; // Explicit Casting - Widening( doesn't require)
+        //
     }
 }

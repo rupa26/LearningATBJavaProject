@@ -12,6 +12,7 @@ public class Lab061_Typecasting_used {
         float total3 = (float)course+GST; // Widening  - Explicit
         System.out.println(total2);
         System.out.println(total3);
+        //
 
     }
 }

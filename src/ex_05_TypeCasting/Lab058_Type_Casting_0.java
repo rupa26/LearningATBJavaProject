@@ -8,6 +8,6 @@ public class Lab058_Type_Casting_0 {
         System.out.println(b);
         // Valid syntax -> smaller data into the bigger data type
         // Implicit - Casting - Widening
-
+//
     }
 }

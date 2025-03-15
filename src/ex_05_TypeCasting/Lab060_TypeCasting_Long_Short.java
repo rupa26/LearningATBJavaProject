@@ -6,5 +6,6 @@ public class Lab060_TypeCasting_Long_Short {
         //short s = phone_no; // implicit ?
         short s = (short) phone_no; // Explicit Casting - Narrowing
         System.out.println(s);
+        //
     }
 }
