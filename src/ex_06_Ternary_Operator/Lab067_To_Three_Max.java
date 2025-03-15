@@ -21,5 +21,6 @@ public class Lab067_To_Three_Max {
         System.out.println("Max ix " + max);
 
         // A -> (n1 > n3) ? n1 : n3
+        //
     }
 }

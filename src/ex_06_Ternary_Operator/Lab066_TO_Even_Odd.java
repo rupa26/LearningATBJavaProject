@@ -5,6 +5,7 @@ public class Lab066_TO_Even_Odd {
      int num = 10;
      String result = (10%2==0)? "Even" : "odd" ;
         System.out.println(result);
+        //
 
     }
 }

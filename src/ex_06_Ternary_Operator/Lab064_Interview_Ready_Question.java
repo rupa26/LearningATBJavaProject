@@ -7,5 +7,7 @@ public class Lab064_Interview_Ready_Question {
         int number = 25;
         String result = (number > 10) ? (number > 20 ? "N>20" : "N<20") : "B";
         System.out.println(result);
+
+        //
     }
 }

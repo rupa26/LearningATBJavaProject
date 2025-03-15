@@ -9,5 +9,6 @@ public class Lab065_TO {
 
         int max = x > y ? x : y;
         System.out.println(max);
+        //
     }
 }
