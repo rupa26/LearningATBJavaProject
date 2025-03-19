@@ -15,7 +15,7 @@ public class Task006_Triangle_Class_HR {
         int s2= scanner.nextInt();
         int s3= scanner.nextInt();
 
-        System.out.println("Entered Value:" + s1 + " "+ s2 +" " + s3);
+        System.out.println("Entered Value:" + s1+ " "+ s2 +" " + s3);
         if ((s1==s2)&&(s2==s3))
         { System.out.println("The Triangle is Equilateral");}
         else if ((s1==s2)||(s1==s3)||(s2==s3))
