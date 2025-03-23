@@ -13,11 +13,16 @@ public class task007_Taking_User_3Input_print {
         int age = scanner.nextInt();
 
         System.out.println("Enter your Salary : ");
-        float salary = scanner.nextFloat();
+        double  salary = scanner.nextFloat();
+        // print the collected information
+        System.out.println("\n -- User Information ---");
+        System.out.println("Name" + name);
+        System.out.println("Age" + age);
+        System.out.println("Salary " + salary);
 
-        System.out.println(name);
-        System.out.println(age);
-        System.out.println(salary);
+        // Close the scanner
+        scanner.close();
+
 
     }
 }
