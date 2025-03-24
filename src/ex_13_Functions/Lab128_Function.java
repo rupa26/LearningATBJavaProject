@@ -1,4 +1,4 @@
-package ex_Functions;
+package ex_13_Functions;
 
 public class Lab128_Function {
     public static void main(String[] args) {
