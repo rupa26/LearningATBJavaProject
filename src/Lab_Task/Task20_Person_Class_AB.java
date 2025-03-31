@@ -22,12 +22,12 @@ public class Task20_Person_Class_AB {
     }
 }
 class Person{
-    String firstName;
-    String lastName;
     int age;
-    String address;
     double salary;
     boolean ismarried;
+    String firstName;
+    String lastName;
+    String address;
     String phone;
     String gender= "Female";
     String location;
